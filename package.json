@@ -18,7 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ashishkmsingh98.github.io/apps/",
+  "homepage": "https://ashishkmsingh98.github.io/apps",
   "eslintConfig": {
     "extends": "react-app"
   },
